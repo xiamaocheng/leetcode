@@ -1,4 +1,4 @@
-package com.offer_minNumber;
+package com.offer11_minNumber;
 
 public class Solution {
 
