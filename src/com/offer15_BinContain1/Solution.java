@@ -14,7 +14,7 @@ public class Solution {
     }
 
 
-    public int hammingWeight1(int n) throws IOException {
+    public int hammingWeight1  (int n) throws IOException {
 
 //        n = 128 (控制台输入 00000000000000000000000000001011
         int count = 0;
